@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Ashish Bhoya",
+    "occupation": "Full Stack Engineer",
+    "description": "Hi there, I am Ashish, a SDE intern at Whatfix. I love problem solving and have solved over 1700+ across all sites",
+    "image": "profilepic1.jpg",
+    "bio": "I'm a SDE Intern at Whatfix with a demonstrated working in the internet industry. Skilled in C++, Object Oriented Programming and Java.\n\n I have good grasp on data structures and algorithms. Also I'm quite active on some coding websites and have solved over 1500+ problems across all platforms.",
+    "contactmessage": "Besides Tech, I also watch a lot of movies and web series. I'm full fan of Light Yagami and Mike Ross. You can check my imdb profile section. And if you do are alike me, we can definately connect.",
+    "email": "ashish.bhoya.56@gmail.com",
+    "phone": "+91-8347897801",
+    "address": {
+      "street": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560102"
+    },
+    "website": "ashishbhoya.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1cclMzAToeE3vhk3eD3B_7eYw2PYzxz2C/view?usp=sharing",
+    "social": [
+      {
+        "name": "imdb",
+        "url": "https://www.imdb.com/user/ur103045195/watchlist?ref_=nv_usr_wl_all_0",
+        "className": "fa fa-imdb"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/56Bhoya",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashishbhoya/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/1ashish01",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/11Ashish11",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "This are my current skills and my cofidence level in them. Though I update it very often as I learn more things.",
+    "education": [
+      {
+        "school": "Lovely Professional University",
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "graduated": "Expected May 2022",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Lions English School",
+        "degree": "Intermedidate",
+        "graduated": "May 2018",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Whatfix",
+        "title": "SDE Intern",
+        "years": "March 2021 - Present",
+        "description": "Tech Stack Worked on: Java, Spring Boot, React, C#."
+      },
+      {
+        "company": "Sapphire Student Club",
+        "title": "Co-CTO",
+        "years": "September 2020 - February 2021",
+        "description": "Made the website for the organization, Been Question setter and Tester for the coding events organized by club."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "95%"
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fuzzy Logic with Flask",
+        "category": "My ML + Web project for 6th sem",
+        "image": "temp2.jpg",
+        "url": "https://github.com/11Ashish11/Flask-Project/tree/main/int-246-project-11Ashish11-master"
+      },
+      {
+        "title": "Kaun Banega Crorepati",
+        "category": "Random python game I made cuz I was bored",
+        "image": "kbc.jpg",
+        "url": "https://github.com/11Ashish11/kaunbanegacrorepati"
+      },
+      {
+        "title": "Library Management System",
+        "category": "C++ project made in 2nd sem",
+        "image": "library.jpg",
+        "url": "https://www.google.com/search?q=library"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "website.png",
+        "url": "ashishbhoya@github.io"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Random quote nobody said about me part 1",
+        "user": "Virat Kohli"
+      },
+      {
+        "text": "Random quote nobody told about me part 2",
+        "user": "Light Yagami"
+      }
+    ]
+  }
+}
